@@ -14,16 +14,9 @@ public class NumberGame{
 			{
 				System.out.println("Данное число меньше того, что загадал компьютер");
 				PlayerNumb++;
-			}
-			
+			}			
 		}
 		if(PlayerNumb==Answer)
-			{System.out.println("Поздравляю, число угадано! "+Answer);}
-				
-		
-		
-
-			
+			{System.out.println("Поздравляю, число угадано! "+Answer);}			
 		}
-
 	}
